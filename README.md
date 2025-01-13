@@ -3,7 +3,8 @@
 > 🌉 Bridging DeFi protocols with AI agents for true on-chain operations
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/b8a6b6e8-6331-4592-a123-881e165760a3" width="600px" />
+
+ <img src="https://github.com/user-attachments/assets/6865e891-f339-411a-a345-a4dd641e6885" width="600px" />
 </p>
 
 ## 🌟 Overview
